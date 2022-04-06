@@ -1,3 +1,10 @@
 Yoast seo 
 Short pixel 
 WP ROCKET
+
+
+nombre: [field id="name"] <br>
+apellido: [field id="field_225fa59"] <br>
+email: [field id="email"] <br>
+telefono: [field id="field_2c93888"] <br>
+message: [field id="message"]
