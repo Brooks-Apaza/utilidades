@@ -1,5 +1,5 @@
 const expresiones = {
-    nombre: /^[A-Za-z\u00E9\u00E0\u00EB\u00E1\u00ED\u00F3\u00FA\u00FC\u00F1][A-Za-z\u00E9\u00E0\u00EB\u00E1\u00ED\u00F3\u00FA\u00FC\u00F1 ]{1,49}$/,
+    nombre: /^[a-zA-ZáéíóúAÉÍÓÚÑñ ]+$/,
     apellido:
        /^[A-Za-z\u00E9\u00E0\u00EB\u00E1\u00ED\u00F3\u00FA\u00FC\u00F1][A-Za-z\u00E9\u00E0\u00EB\u00E1\u00ED\u00F3\u00FA\u00FC\u00F1 ]{1,49}$/,
     DNI: /^[0-9]{8}$/,
